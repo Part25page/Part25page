@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bienvedido a Part25page
 
 <!--
 **Part25page/Part25page** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
